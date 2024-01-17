@@ -19,6 +19,7 @@ public class studentList {
             System.out.println(studentList[i].getSname()+ " " + studentList[i].getsId());
         }
         //hello
+        //bye
         
         
     }
