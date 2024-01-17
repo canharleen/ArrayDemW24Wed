@@ -18,6 +18,8 @@ public class studentList {
         for (int i=0; i<studentList.length;i++){
             System.out.println(studentList[i].getSname()+ " " + studentList[i].getsId());
         }
+        //hello
+        
         
     }
 }
