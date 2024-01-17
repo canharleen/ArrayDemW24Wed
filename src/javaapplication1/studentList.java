@@ -11,7 +11,7 @@ package javaapplication1;
 public class studentList {
     public static void main(String args[]){
         Student s1 = new Student(1,"Harleen");
-        Student[] studentList = new Student[4];
+        Student[] studentList = new Student[3];
         studentList[0]=s1;
         System.out.println("Third commit");
         studentList[1] = new Student(2,"Pawan");
