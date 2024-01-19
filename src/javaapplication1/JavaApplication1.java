@@ -29,8 +29,8 @@ public class JavaApplication1 {
             myLetters[i]=word.charAt(i);
         }
         
-        for (int i=myLetters.length-1;i>=0;i--){
-            System.out.println(myLetters[i]);
+        for (int i=myLetters.length;i>0;i--){
+            System.out.println(myLetters[i-1]);
         }
         
     }
