@@ -7,7 +7,7 @@ package javaapplication1;
 /**
  *
  * @author gilla
- changing code in Github to see fetch and merge
+ changing code in Github to check pull changes
  */
 public class studentList {
     public static void main(String args[]){
