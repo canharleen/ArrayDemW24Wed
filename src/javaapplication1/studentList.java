@@ -11,7 +11,7 @@ package javaapplication1;
 public class studentList {
     public static void main(String args[]){
         Student s1 = new Student(1,"Harleen");
-        Student[] studentList = new Student[3];
+        Student[] studentList = new Student[4];
         //hello
         //another
         studentList[0]=s1;
